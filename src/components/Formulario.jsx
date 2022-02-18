@@ -26,7 +26,7 @@ const Formulario = ({setCategoria}) => {
              <form
                  onSubmit={buscarNoticias}
              >
-                  <h2 className={styles.heading}>Encuentra Noticias por Categoria</h2>
+                  <h2 className={styles.heading}>Encuentra Noticias por Categoria.</h2>
 
                   <SelectNoticias/>
 
